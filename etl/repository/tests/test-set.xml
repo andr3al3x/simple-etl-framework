@@ -1,0 +1,4 @@
+<test-set>
+    <test name="a plus b" order="1" location="a_plus_b_mapping_test.ktr" class="sum.tests.ex" package="test"/>
+    <test name="a minus b" order="2" location="a_minus_b_mapping_test.ktr" class="sub.tests" package="test"/>
+</test-set>
